@@ -1,0 +1,7 @@
+*{border:1px solid gold}
+#layout_basic{position:relative;width:1024px;overflow:hidden}
+#layout_basic .leftside{float:left;background-color:tan;width:200px;height:300px}
+#layout_basic .mainside{background-color:yellowgreen;height:300px;margin:0px 220px}
+
+#layout_span .leftside{display:inline-block;background-color:tan;width:200px;height:300px}
+#layout_span .mainside{background-color:yellowgreen;height:300px;margin:0px 220px}
